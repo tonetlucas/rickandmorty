@@ -1,4 +1,3 @@
 # rickandmorty
  Projeto Rick and Morty, meu primeiro projeto consumindo API
-
-<a href="index.html">site</a>
+<a href="https://rickandmortyprojec.netlify.app/">site</a>
